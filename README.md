@@ -7,7 +7,8 @@ As we already know from living in the digital age and the lessons we've already 
 Much of our digital information is in the form of text, for exmaple song lyrics and emails. To clean up and format that text with Python, we need to become familiar with our first type of data, the String.
 
 ## Objectives
-* Understand and use the strings
+  * Understand and use the data type, Strings
+  * Understand and explain the concept of variables
 
 ## What Are Strings?
 
