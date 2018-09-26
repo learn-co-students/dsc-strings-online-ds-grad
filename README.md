@@ -7,8 +7,9 @@ As we already know from living in the digital age and the lessons we've already 
 Much of our digital information is in the form of text, for exmaple song lyrics and emails. To clean up and format that text with Python, we need to become familiar with our first type of data, the String.
 
 ## Objectives
-  * Understand and use the data type, Strings
-  * Understand and explain the concept of variables
+You will be able to:
+* Understand and use the data type, Strings
+* Understand, explain and use the correct data types for various types of information (strings)
 
 ## What Are Strings?
 
@@ -50,7 +51,7 @@ For example, to create a new string (or to *initialize* a string) we cannot simp
 "Th"is will throw an error!
 ```
 
-> **Note:** double quotes and single quotes can be used interchangeably in Python; however, it is important that we stay consistent.
+> **Note:** double quotes and single quotes can be used interchangeably in Python; however, for readability it is important that we stay consistent. At first, it might seem strange how picky programmers are about details like this, but after a couple of years of coding, you too might end up in a fight like [this one](https://www.youtube.com/watch?v=SsoOG6ZeyUI)!
 
 ### Changing Data With Built In Methods
 
