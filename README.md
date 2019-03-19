@@ -3,15 +3,14 @@
 
 ## Introduction
 As we already know from living in the digital age and the lessons we've already seen, programming is a powerful tool for answering questions about data. It allows us to collect, clean up and format our data and then perform calculations on that data.
-
-Much of our digital information is in the form of text, for exmaple song lyrics and emails. To clean up and format that text with Python, we need to become familiar with our first type of data, the String.
+Much of our digital information is in the form of text, for example song lyrics and emails. To clean up and format that text with Python, we need to become familiar with our first type of data, the String.
 
 ## Objectives
 By the end of this lesson, you will be able to:
 * Understand and use the **String** data type
 * Understand, explain and use the correct data types for various types of information
 
-## What Are Strings?
+## What are Strings?
 
 A lot of information in the world is in the form of text. To capture this information and operate on it in Python we take this text and make it into the **String** (`str`) data type.
 
@@ -181,7 +180,7 @@ Here is an examples that follow this format and returns a `True` or `False` valu
 
 As you can see in this notebook, most of our operations on data will follow the data-dot-method_name-parentheses format.
 
-###  Discovering New Methods
+##  Discovering New Methods
 
 You may be starting to worry about there being too many methods to keep track of. Let's ask Python for help with finding more information about what we can do with strings.
 
