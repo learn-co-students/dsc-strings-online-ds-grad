@@ -119,7 +119,7 @@ type(42.0)
 
 Python is picky like this for a reason. For example, once it knows we are working with a string, it gives us specific functionality for operating on strings. We call this functionality a **function** or a **method**.
 
-Below we have a method that works with a String, but does not work with a Boolean.
+Below we have a method that works with a String, but does not work with an integer.
 
 
 ```python
@@ -152,7 +152,7 @@ As we can see in the examples above, we can operate on a datatype using the foll
 
    * [INSTANCE OF A DATATYPE] [DOT] [METHOD NAME] [PARENTHESES]
 
-Here is an examples that follow this format and returns a `True` or `False` value:
+Here is an examples that follows this format and returns a `True` or `False` value:
 
 
 ```python
@@ -655,6 +655,6 @@ And our work is done.
 Feel free to look at [other common string operations here.](https://docs.python.org/2/library/string.html)
 
 ## Summary
-In this lesson, we learned about our first datatype in Python: the string.  A string is just text. We indicate to Python that we are writing a string by surrounding our content with quotation marks. Once we do this, we can operate on this string by calling methods like `upper` or `endswith`. We identified a general pattern for calling methods on datatypes: 'instance of a datatype-dot-method name-parentheses'.
+In this lesson, we learned about our first datatype in Python: the string.  A string is just text. We indicate to Python that we are writing a string by surrounding our content with quotation marks. Once we do this, we can operate on this string by calling methods like `upper()` or `endswith()`. We identified a general pattern for calling methods on datatypes: 'instance of a datatype-dot-method name-parentheses'.
 
-The second thing we learned was different mechanisms for learning about methods.  We saw the importance of guessing and experimentation, and how doing so can give us error messages, which provide clues. We also saw how to ask questions about a datatype by calling 'help' followed by the datatype name like `help(str)`.  Finally, we saw we can ask Google.  This mechanism of exploration is a skill we'll build up over time and this course will provide guidance and practice on along the way.
+The second thing we learned was different mechanisms for learning about methods.  We saw the importance of guessing and experimentation, and how doing so can give us error messages, which provide clues. We also saw how to ask questions about a datatype by calling `help()` followed by the datatype name like `help(str)`.  Finally, we saw we can ask Google.  This mechanism of exploration is a skill we'll build up over time and this course will provide guidance and practice all along the way.
