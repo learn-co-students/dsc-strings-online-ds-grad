@@ -7,8 +7,9 @@ Much of our digital information is in the form of text, for example song lyrics 
 
 ## Objectives
 By the end of this lesson, you will be able to:
-* Understand and use the **String** data type
-* Understand, explain and use the correct data types for various types of information
+
+* Apply string methods to make changes to a string
+* Inspect documentation with various methods
 
 ## What are Strings?
 
@@ -19,7 +20,7 @@ Below, we have the name of a cartoon character, Homer Simpson. By putting quotes
 ```python
 "Homer Simpson"
 ```
-When programmers say *string*, what they mean is text.  When programmers say *data type*, they just mean type of data.  We can think of `'Homer Simpson'` as an instance of the string data type.
+When programmers say *string*, what they mean is text.  When programmers say *data type*, they just mean type of data.  We can think of `'Homer Simpson'` as an *instance* of the string data type.
 
 Here are a few other types of data in Python that we will talk more about in later lessons:
 ```python
